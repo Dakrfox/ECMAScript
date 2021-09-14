@@ -18,4 +18,7 @@ ECMAscript is the JS language especification by ECMA International
     - padding 
     - Async
     - Await 
-    
+### ES9 
+- What was implemented in ECMAScript 7?
+    - 
+
