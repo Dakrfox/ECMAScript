@@ -10,3 +10,12 @@ ECMAscript is the JS language especification by ECMA International
 - class, modules and generators
 ### ES7
 - What was implemented in ECMAScript 7?
+    - includes
+    - exponential operations 
+### ES8
+- What was implemented in ECMAScript 8?
+    -object endpoint
+    - padding 
+    - Async
+    - Await 
+    
