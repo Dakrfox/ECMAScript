@@ -14,7 +14,7 @@ ECMAscript is the JS language especification by ECMA International
     - exponential operations 
 ### ES8
 - What was implemented in ECMAScript 8?
-    -object endpoint
+    - object endpoint
     - padding 
     - Async
     - Await 
