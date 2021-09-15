@@ -19,6 +19,15 @@ ECMAscript is the JS language especification by ECMA International
     - Async
     - Await 
 ### ES9 
-- What was implemented in ECMAScript 7?
-    - 
+- What was implemented in ECMAScript 9?
+    - spread operator improve
+    - propagation properties
+    - finally Promise
+### ES10
+- What was implemented in ECMAScript 10?
+    - flat
+    - trim
+    - catch without especify at the begining 
+    - description 
+
 
